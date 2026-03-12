@@ -7,9 +7,13 @@
 **Estudiante:** 
 
 Justin Alfredo Rodríguez Sánchez RS240130
+
 Sergio Salvador Sánchez Monti SM181265
+
 Abel Stuardo Lopez Velasquez LV231728
+
 JOSE ARMANDO ANZORA ANZORA AA252522
+
 Gabriela Elizabeth Urrutia Hernández UH231910
 
 
