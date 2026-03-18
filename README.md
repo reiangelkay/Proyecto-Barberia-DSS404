@@ -140,7 +140,7 @@ usuarios ──────┬──── barberos ────── citas ─
 | Sprint 4 | 12 – 13 | Sistema de feedback y ranking de barberos |
 | Sprint 5 | 14 – 15 | Inventario de bebidas: catálogo, pedidos y movimientos |
 | Sprint 6 | 16 – 17 | Panel administrativo, reportes y pruebas QA |
-| Cierre | 18 | Documentación final y despliegue 🏁 *Entrega Final* |
+| Cierre | 18 | Documentación final y despliegue *Entrega Final* |
 
 ---
 
